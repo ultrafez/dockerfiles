@@ -1,0 +1,2 @@
+# Aliases for binaries in Docker images
+alias kotlinc='docker run -it -v $(pwd):/src kotlinc'
